@@ -33,11 +33,9 @@
 - Integrated Map API for location-based visualization.
 
 # Preview 📹
+https://github.com/user-attachments/assets/374d9e76-805b-42d9-ad1f-465c78723ca6
 
 
 # Contact 📧
 - gunaydinsemra34@gmail.com
 
-
-
-- 
